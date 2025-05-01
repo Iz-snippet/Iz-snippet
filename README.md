@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Iz-snippet&style=flat-square&color=blue" alt="Profile Views" />
 </p>
