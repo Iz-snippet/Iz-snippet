@@ -25,6 +25,10 @@ I'm a passionate developer from India who believes in writing clean, efficient, 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -33,15 +37,12 @@ I'm a passionate developer from India who believes in writing clean, efficient, 
 
 </div>
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iz-snippet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iz-snippet&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iz-snippet&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 ## 🎯 Featured Projects
