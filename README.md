@@ -10,9 +10,9 @@
 
 I'm a passionate developer from India who believes in writing clean, efficient, and meaningful code. I love turning ideas into reality through programming and constantly exploring new technologies.
 
-- 🔭 I'm currently working on various web development projects
+- 🔭 I'm currently working on various  development projects
 - 🌱 I'm always learning and improving my skills
-- 💬 Ask me about HTML, CSS, Python, and web development
+- 💬 Ask me about HTML, CSS, Python, JS and web development
 - 📫 How to reach me: Check out my social links below!
 - ⚡ Fun fact: I enjoy creating snippets of code that solve everyday problems
 
