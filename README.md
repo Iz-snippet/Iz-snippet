@@ -108,7 +108,7 @@ I'm a passionate developer from India who believes in writing clean, efficient, 
 *Phone:* +91 9123883426 
 
 </div>
-<div align="center"> ![Profile Views](https://komarev.com/ghpvc/?username=Iz-snippet&color=brightgreen&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/Iz-snippet?style=for-the-badge&color=blue) ![Stars](https://img.shields.io/github/stars/Iz-snippet?style=for-the-badge&color=yellow) </div>
+
 <div align="center">
   <h3>⭐ Show some love by starring my repositories if you find them useful! ⭐</h3>
   
