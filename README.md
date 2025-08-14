@@ -101,6 +101,13 @@ I'm a passionate developer from India who believes in writing clean, efficient, 
 </div>
 
 ---
+## 📫 How to Reach Me
+<div align="center">
+
+**Email:** ishakemondal712@gmail.com  
+**Phone:** +91 9123883426 
+
+</div>
 
 <div align="center">
   <h3>⭐ Show some love by starring my repositories if you find them useful! ⭐</h3>
