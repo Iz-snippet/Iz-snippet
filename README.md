@@ -42,15 +42,17 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Iz-snippet&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sana-com&style=for-the-badge&color=00ffcc" alt="Profile views"/>  
-<img src="https://img.shields.io/github/followers/sana-com?style=for-the-badge&color=ff69b4" alt="Followers"/>  
-
-</div>
 
 <div align="center">
   <h3>⭐ Show some love by starring my repositories if you find them useful! ⭐</h3>
 <div align="center">
+
+  <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Iz-snippet&style=for-the-badge&color=00ffcc" alt="Profile views"/>  
+<img src="https://img.shields.io/github/followers/Iz-snippet?style=for-the-badge&color=ff69b4" alt="Followers"/>  
+
+</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave">
 </div>
